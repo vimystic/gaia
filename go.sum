@@ -1219,8 +1219,8 @@ github.com/urfave/cli/v2 v2.3.0/go.mod h1:LJmUH05zAU44vOAcrfzZQKsZbVcdbOG8rtL3/X
 github.com/valyala/bytebufferpool v1.0.0/go.mod h1:6bBcMArwyJ5K/AmCkWv1jt77kVWyCJ6HpOuEn7z0Csc=
 github.com/valyala/fasttemplate v1.0.1/go.mod h1:UQGH1tvbgY+Nz5t2n7tXsz52dQxojPUpymEIMZ47gx8=
 github.com/valyala/fasttemplate v1.2.1/go.mod h1:KHLXt3tVN2HBp8eijSv/kGJopbvo7S+qRAEEKiv+SiQ=
-github.com/vimystic/cosmos-sdk v0.0.0-20240319234115-9990069261d9 h1:lVT7+DlKcQq+yyA2GgtNltSzHuele5vc0OQB5oZzPjI=
-github.com/vimystic/cosmos-sdk v0.0.0-20240319234115-9990069261d9/go.mod h1:7lymTBqaezjxtEnVMwBNx0rXcOMoP49NUpYugIrjyus=
+github.com/vimystic/cosmos-sdk v0.47.10-ics-lsm-fast.1 h1:1NLcBv3r0jkArGpMsUcm+Wo1RiER3j2E/SrckcE4iz0=
+github.com/vimystic/cosmos-sdk v0.47.10-ics-lsm-fast.1/go.mod h1:7lymTBqaezjxtEnVMwBNx0rXcOMoP49NUpYugIrjyus=
 github.com/vmihailenco/msgpack/v5 v5.3.5/go.mod h1:7xyJ9e+0+9SaZT0Wt1RGleJXzli6Q/V5KbhBonMG9jc=
 github.com/vmihailenco/tagparser/v2 v2.0.0/go.mod h1:Wri+At7QHww0WTrCBeu4J6bNtoV6mEfg5OIWRZA9qds=
 github.com/willf/bitset v1.1.3/go.mod h1:RjeCKbqT1RxIR/KWY6phxZiaY1IyutSBfGjNPySAYV4=
